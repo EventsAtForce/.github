@@ -1,52 +1,41 @@
-<h1 align="center">FORCE - Hall of Fame</h1>
-<h3 align="center">Office Bearers</h3>
+# FORCE: Forum of REVA for Communication and Electronics
 
-<h3 align="left">2023-2024</h3>
-<p align="center">
-  <ul>
-    <li>Hruday Tejomaya S, President</li>
-    <li>Bimal Ramesh, Vice President</li>
-    <li>Gagana Muthyalu, Secretary</li>
-    <li>Kavana K, Treasurer</li>
-    <li>Vaishnavi R K, Organising Head</li>
-    <li>Ian D'Almeida, Technical Head</li>
-    <li>Raghav Vashisht, Cultural Head</li>
-    <li>Isra Arshad, Documentation Head</li>
-    <li>Soumyajit Basak, Disciplinary Head</li>
-  </ul>
-</p>
+FORCE (Forum Of REVA for Communication And Electronics) is a student-run organization at REVA University aimed at fostering a vibrant community for students interested in Communication and Electronics Engineering. 
 
-<h3 align="left">2022-2023</h3>
-<p align="center">
-  <ul>
-    <li>Gabriel Prajwal Raj, President</li>
-    <li>Ashwini Shri, Vice President</li>
-    <li>Uthkarsh Nikhil, Secretary</li>
-    <li>Bhoomika N, Treasurer</li>
-    <li>Ebaad Rehman, Organising Head</li>
-    <li>Dhruv Sridhar, Organising Head</li>
-    <li>Apramey MK, Organising Head</li>
-    <li>Nithesh Gowda, Technical Head</li>
-    <li>Pritam G Shastri, Cultural Head</li>
-    <li>Aromal A J, Cultural Head</li>
-    <li>Sthuthi Samuel, Cultural Head</li>
-  </ul>
-</p>
+We organize a variety of cultural and technical events throughout the year to provide a platform for students to:
 
-<h3 align="left">2020-2021</h3>
-<p align="center">
-  <ul>
-    <li>Prathab Simham, President</li>
-    <li>C Sailikhitha Reddy, Vice President</li>
-    <li>Shriya A S, Secretary</li>
-    <li>Prateek Rampur, Treasurer</li>
-    <li>Shreya Reddy, Organising Head</li>
-    <li>Pratik Nilange, Technical Head</li>
-    <li>Sherlie A, Technical Head</li>
-    <li>Shreya S Reddy, Cultural Head</li>
-    <li>Harish Gowda, Documentation Head</li>
-</ul>
-</p>
+* Showcase their talents and creativity
+* Enhance their technical skills and knowledge
+* Network with peers and industry professionals
+* Develop their communication and leadership abilities
 
+## What We Do
 
+FORCE organizes a diverse range of events, including:
 
+* **Technical Events:** Hackathons, coding competitions, workshops on emerging technologies, guest lectures by industry experts, etc.
+* **Cultural Events:** Debates, quizzes, movie screenings, gaming competitions, social events, etc.
+
+## Join Us
+
+FORCE welcomes all students from REVA University with an interest in Communication and Electronics Engineering. We encourage active participation in our events and initiatives. 
+
+**Benefits of Joining FORCE:**
+
+* Learn new skills and gain valuable experience
+* Network with like-minded individuals
+* Contribute to the development of the Communication and Electronics community at REVA University
+* Build your leadership skills and become an active member of the student body
+
+## Contact Us
+
+* Email: [[email address removed]] (replace with your FORCE email address)
+* Social Media: (add links to your social media pages, if applicable)
+
+## Code of Conduct
+
+FORCE is committed to providing a welcoming and inclusive environment for all members. We expect all participants to adhere to our code of conduct, which promotes respectful and professional behavior.
+
+## Contribution
+
+We welcome contributions from the student community to improve FORCE and its initiatives. If you have any ideas or suggestions, please feel free to contact us.

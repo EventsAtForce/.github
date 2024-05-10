@@ -31,10 +31,6 @@ FORCE welcomes all students from School of ECE with an interest in organizing ev
 
 * Email: eventsatforce@gmail.com
 
-## Code of Conduct
-
-FORCE is committed to providing a welcoming and inclusive environment for all members. We expect all participants to adhere to our code of conduct, which promotes respectful and professional behavior.
-
 ## Contribution
 
 We welcome contributions from the student community to improve FORCE and its initiatives. If you have any ideas or suggestions, please feel free to contact us.

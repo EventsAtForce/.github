@@ -18,7 +18,7 @@ Some of our events include:
 
 ## Join Us
 
-FORCE welcomes all students from Schoo of ECE with an interest in organizing events. We encourage active participation in our events and initiatives. 
+FORCE welcomes all students from School of ECE with an interest in organizing events. We encourage active participation in our events and initiatives. 
 
 **Benefits of Joining FORCE:**
 

@@ -11,9 +11,7 @@ We organize a variety of cultural and technical events throughout the year to pr
 * Network with peers and industry professionals
 * Develop their communication and leadership abilities
 
-
-
-FORCE organizes a diverse range of events, including:
+Some of our events include:
 
 * Harmonics, Fresher's Day, Farewell...
 * Outreach Programmes on the occasion of Children's Day, Women's Day and so on...

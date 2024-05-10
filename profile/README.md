@@ -1,6 +1,8 @@
 # FORCE: Forum of REVA for Communication and Electronics
 
-FORCE (Forum Of REVA for Communication And Electronics) is a student-run organization at REVA University aimed at fostering a vibrant community for students interested in Communication and Electronics Engineering. 
+FORCE (Forum Of REVA for Communication And Electronics) is a student forum under School of Electronics and Communication at REVA University aimed at fostering a vibrant community for students in various technical and non technical domains.
+
+## What We Do
 
 We organize a variety of cultural and technical events throughout the year to provide a platform for students to:
 
@@ -9,28 +11,27 @@ We organize a variety of cultural and technical events throughout the year to pr
 * Network with peers and industry professionals
 * Develop their communication and leadership abilities
 
-## What We Do
+
 
 FORCE organizes a diverse range of events, including:
 
-* **Technical Events:** Hackathons, coding competitions, workshops on emerging technologies, guest lectures by industry experts, etc.
-* **Cultural Events:** Debates, quizzes, movie screenings, gaming competitions, social events, etc.
+* Harmonics, Fresher's Day, Farewell...
+* Outreach Programmes on the occasion of Children's Day, Women's Day and so on...
 
 ## Join Us
 
-FORCE welcomes all students from REVA University with an interest in Communication and Electronics Engineering. We encourage active participation in our events and initiatives. 
+FORCE welcomes all students from Schoo of ECE with an interest in organizing events. We encourage active participation in our events and initiatives. 
 
 **Benefits of Joining FORCE:**
 
 * Learn new skills and gain valuable experience
 * Network with like-minded individuals
-* Contribute to the development of the Communication and Electronics community at REVA University
+* Contribute to the development of the student community at School of ECE,REVA University
 * Build your leadership skills and become an active member of the student body
 
 ## Contact Us
 
-* Email: [[email address removed]] (replace with your FORCE email address)
-* Social Media: (add links to your social media pages, if applicable)
+* Email: [[eventsatforce@gmail.com]] 
 
 ## Code of Conduct
 

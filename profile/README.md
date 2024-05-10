@@ -29,7 +29,7 @@ FORCE welcomes all students from School of ECE with an interest in organizing ev
 
 ## Contact Us
 
-* Email: [[eventsatforce@gmail.com]] 
+* Email: eventsatforce@gmail.com
 
 ## Code of Conduct
 

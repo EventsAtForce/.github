@@ -1,6 +1,8 @@
-# FORCE: Forum of REVA for Communication and Electronics
-
-FORCE (Forum Of REVA for Communication And Electronics) is a student forum under School of Electronics and Communication at REVA University aimed at fostering a vibrant community for students in various technical and non technical domains.
+<div align="center">
+<h1 align="center">We are FORCE: Forum of REVA for Communication and Electronics</h1>
+<h4 align="center">FORCE (Forum Of REVA for Communication And Electronics) is a student forum under School of Electronics and Communication, REVA University</h4>
+</div>
+<br>
 
 <picture>
   <source
@@ -17,35 +19,23 @@ FORCE (Forum Of REVA for Communication And Electronics) is a student forum under
   />
 </picture>
 
-## What We Do
+<h3 align="center"><a href="https://www.eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
 
-We organize a variety of cultural and technical events throughout the year to provide a platform for students to:
+<br>
 
-* Showcase their talents and creativity
-* Enhance their technical skills and knowledge
-* Network with peers and industry professionals
-* Develop their communication and leadership abilities
+<div align="center">
 
-Some of our events include:
+<h3 align="center">Connect with us: eventsatforce@gmail.com</a></h3>
 
-* Harmonics, Fresher's Day, Farewell...
-* Outreach Programmes on the occasion of Children's Day, Women's Day and so on...
+<a href="https://www.linkedin.com/company/eventsatforce/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-## Join Us
+<a href="https://www.instagram.com/eventsatforce/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
-FORCE welcomes all students from School of ECE with an interest in organizing events. We encourage active participation in our events and initiatives. 
+<a href="https://www.youtube.com/channel/eventsatforce" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%2300acee.svg?color=FF0000&style=for-the-badge&logo=youtube&logoColor=white alt=YouTube style="margin-bottom: 5px;" />
+</a>
 
-**Benefits of Joining FORCE:**
-
-* Learn new skills and gain valuable experience
-* Network with like-minded individuals
-* Contribute to the development of the student community at School of ECE,REVA University
-* Build your leadership skills and become an active member of the student body
-
-## Contact Us
-
-* Email: eventsatforce@gmail.com
-
-## Contribution
-
-We welcome contributions from the student community to improve FORCE and its initiatives. If you have any ideas or suggestions, please feel free to contact us.
+</div>

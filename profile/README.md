@@ -50,9 +50,6 @@
   </ul>
 </p>
 
-<h3 align="center"><a href="https://eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
-<div align="center">
-
 <h3 align="center">Connect with us: eventsatforce@gmail.com</a></h3>
 
 <a href="https://www.linkedin.com/company/eventsatforce/" target="_blank">

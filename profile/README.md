@@ -19,6 +19,9 @@
   />
 </picture>
 
+<h3 align="center"><a href="https://eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
+<div align="center">
+
 <h3 align="left">Office Bearers 2024-2025</h3>
 <p align="center">
   <ul>

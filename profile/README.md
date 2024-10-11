@@ -4,6 +4,8 @@
 </div>
 <br>
 
+<h3 align="center"><a href="https://eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -18,8 +20,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<h3 align="center"><a href="https://eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
 
 <h3 align="left">Office Bearers 2024-2025</h3>
 <p align="center">

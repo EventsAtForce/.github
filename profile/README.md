@@ -50,7 +50,7 @@
 </p>
 
 <div align="center">
-<h3 align="center"><a href="mailto:eventsatforce@gmail.com" target="_blank">Connect with us:</a></h3>
+<h3 align="center">Connect with us: eventsatforce@gmail.com</a></h3>
 
 <a href="https://www.linkedin.com/company/eventsatforce/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

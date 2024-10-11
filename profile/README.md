@@ -2,7 +2,6 @@
 <h1 align="center">We are FORCE: Forum of REVA for Communication and Electronics</h1>
 <h4 align="center">FORCE is a student forum under School of Electronics and Communication, REVA University</h4>
 </div>
-<br>
 
 <h3 align="center"><a href="https://eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
 

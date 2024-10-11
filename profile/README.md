@@ -2,6 +2,21 @@
 
 FORCE (Forum Of REVA for Communication And Electronics) is a student forum under School of Electronics and Communication at REVA University aimed at fostering a vibrant community for students in various technical and non technical domains.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## What We Do
 
 We organize a variety of cultural and technical events throughout the year to provide a platform for students to:

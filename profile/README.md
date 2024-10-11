@@ -18,7 +18,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<h3 align="center"><a href="https://www.eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
+<h3 align="center"><a href="eventsatforce.vercel.app" target="_blank">eventsatforce.vercel.app</a></h3>
 <div align="center">
 
 <h3 align="center">Connect with us: eventsatforce@gmail.com</a></h3>
